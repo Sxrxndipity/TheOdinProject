@@ -1,0 +1,21 @@
+body {
+    font-family: Garamond;
+}
+
+#fet {
+    color: purple;
+    text-align: center;
+}
+img {
+    width: 400;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+div {
+    font-weight: 200;
+}
+.sub {
+    font-weight: 500;
+}

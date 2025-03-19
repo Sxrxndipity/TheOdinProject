@@ -1,0 +1,24 @@
+.box-one {
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+    padding: 20px ;
+    border: 60px solid #4034eb;
+    margin: 50px ;
+    box-sizing: content-box;
+}
+
+.box-two {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    padding: 20px ;
+    border: 60px solid #4034eb;
+    margin: 50px ;
+    box-sizing: content-box;
+}
+
+.box-two,
+.box-one {
+    display: inline-flex;
+}

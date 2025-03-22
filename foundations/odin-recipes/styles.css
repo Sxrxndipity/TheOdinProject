@@ -20,5 +20,5 @@
 
 .box-two,
 .box-one {
-    display: inline-flex;
+    display: flex;
 }

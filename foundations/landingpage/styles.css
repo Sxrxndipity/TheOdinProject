@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    padding: 0 20px;
+}
+
+ul {
+    display: flex;
+    gap: 16px;
+    list-style-type: none;
+}
+
+.l1 {
+    display: flex;
+}
+
+
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.l1 img {
+    width: 650px;
+    height: 300px;
+}
+
+
+
+
